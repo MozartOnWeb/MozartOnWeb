@@ -12,4 +12,4 @@
 - 📬 Reach me: mozartontheweb@gmail.com
 
 
-[![Mandjou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MozartOnWeb&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Mandjou's GitHub stats](https://github-readme-stats.vercel.app/api?username=MozartOnWeb&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
