@@ -1,6 +1,6 @@
 **Hi there 👋🏽,**
 <br>
-**I'm Mandjou, a 23 years old Front-End developer from Mali.**
+**I'm Mandjou, a 24 years old Front-End developer from Mali.**
 - 😄 Pronouns: he, him.
 - 📟 technologies:
 - - 👨🏽‍💻 Typescript, Javscript.
