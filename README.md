@@ -8,5 +8,5 @@
 - - ✒️ SASS, CSS, Styled-Components.
 - - 🧰 Firebase, Sanity.io, Vercel, Figma.
 -  💬 Ping me about web dev, design, branding.
-- 🙃 Fun fact: I'm a huge fan of manga
+- 🙃 Fun fact: I love reading manga & watching animes.
 - 📬 Reach me: mozartontheweb@gmail.com
